@@ -94,13 +94,13 @@ h2 {
 /* css for education */
 
 .edu-year {
-    width: 5.8em;
+    width: 7.8em;
     display: inline-block;
 }
 
 .edu-content {
     display: inline-block;
-    margin-left: 6.7em;
+    margin-left: 7.7em;
     /* (87+10+4-0.5)/15 */
     padding-left: .9em;
     /* 13.5/15 */
@@ -118,7 +118,7 @@ h2 {
 .edu-placeholder {
     height: .625em;
     border-left: 1px solid black;
-    margin-left: 6.7em;
+    margin-left: 7.7em;
     /* (87+10+4-0.5)/15 */
 }
 
